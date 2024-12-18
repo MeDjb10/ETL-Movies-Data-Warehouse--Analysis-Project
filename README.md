@@ -91,7 +91,7 @@ This project uses publicly available movie datasets:
    - `name.basics.tsv.gz` – Contains actor and crew information.  
    - `title.principals.tsv.gz` – Links actors/crew to movies.  
    - `title.basics.tsv.gz` – Contains movie titles, years, and genres.  
-2. **Kaggle Dataset** – Provides additional raw data (400k movies).  
+2. **Kaggle Dataset** ([Source](https://www.kaggle.com/datasets/ggtejas/tmdb-imdb-merged-movies-dataset)):  – Provides additional raw data (400k movies).  
 
 ---
 
