@@ -38,7 +38,7 @@ Here is the structure of the project repository:
 ```plaintext
 ETL_Movies_Project/
 ├── .git/                     # Git repository files  
-├── DataSets/                 # Raw IMDb and Kaggle datasets  
+├── DataSets/                 # Links of the IMDb and Kaggle datasets  
 ├── IMDBDWH/                  # Talend jobs and workflows  
 ├── MySQL_Database/           # SQL scripts for creating tables and loading data  
 ├── PowerBi_Report/           # Power BI report files  
@@ -107,7 +107,7 @@ Examples of the dashboards and workflows:
 - **Power BI Dashboard**
 ![Power BI Dashboard](screenshots/mainDashboard.png)
 ![Power BI Dashboard](screenshots/dashboard2.png)
-![Power BI Dashboard](screenshots/dashboard2.png)
+![Power BI Dashboard](screenshots/dashboard3.png)
 
 - **Talend Workflow**
 ![Actor Dimension Job](screenshots/actorDim.png)
@@ -131,5 +131,5 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 ## **Acknowledgments** 🙌  
 - IMDb for providing comprehensive movie datasets.  
 - Talend Open Studio for ETL processing.  
-- Power BI for enabling powerful visual analytics.  
+- Power BI for enabling powerful visual analytics.
 ```
