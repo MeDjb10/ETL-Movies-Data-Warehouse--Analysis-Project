@@ -1,0 +1,5 @@
+400K movies datasets:
+https://www.kaggle.com/datasets/ggtejas/tmdb-imdb-merged-movies-dataset
+
+IMDB datasets:
+https://datasets.imdbws.com
