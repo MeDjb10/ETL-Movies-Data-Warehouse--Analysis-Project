@@ -132,4 +132,3 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 - IMDb for providing comprehensive movie datasets.  
 - Talend Open Studio for ETL processing.  
 - Power BI for enabling powerful visual analytics.
-```
